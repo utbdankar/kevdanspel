@@ -1,0 +1,32 @@
+#NOTERA DETTA ÄR ETT TEST PROJECT, VI KOMMER FUQA UPP, DET ÄR OKEJ#
+
+SPELARE PROTOTYP 
+kub#1 som kan röra sig höger, vänster 
+fixa så gravitation funkar på kub#1
+kub#1 kan hoppa
+kamera följer kub#1
+kub#1 kan dö( förhindrar rörelse )
+
+BANA PROTYP
+gör hinder sfär#1(implementera så kub#1 dör när den rör sfär#1)
+gör plattformar som rör sig 
+gör så nästa bana laddas när man går in i mål
+
+BASIC GRAFIK
+tillsätt grafik(animation och textures) kub#1
+tillsätt grafik(animation och textures) bana
+
+MENY
+fixa new game
+fixa quit
+gör nått simpelt intro till menyn
+fixa så att när man dör, kommer man till menyn
+
+POWER UPS
+diskutera vilka powersups som ska implementeras
+
+BASIC POWER UPS
+tillsätt grafik till powerups
+
+LEVEL DESIGN
+gör 10(???) banor
